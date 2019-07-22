@@ -1,4 +1,4 @@
-package controllers
+package admincommon
 
 import (
 	"github.com/astaxie/beego"
